@@ -1,0 +1,32 @@
+{
+  "name": "@pipeworx/mcp-chrome-ux-report",
+  "version": "0.1.0",
+  "description": "Real-user Core Web Vitals for any website with enough traffic, from Google's Chrome UX Report — the field measurements Google Search itself uses.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "bin": {
+    "mcp-chrome-ux-report": "bin/cli.js"
+  },
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "chrome-ux-report"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipeworx-io/mcp-chrome-ux-report.git"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "tsx": "^4.19.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-c533f89d149f36d8933eb8f7a8a4831a1f031de99a5f8ab59d9ad9b9bc1a0efa",
+    "sourceCommit": "839ab210d969ef7f822cd747ea516f6bb49e9231"
+  }
+}
