@@ -6,7 +6,7 @@ Paint and Cumulative Layout Shift that actual Chrome visitors experienced over
 the trailing 28 days, plus the distribution behind each number and ~40 weeks of
 history.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1679+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1683+ live data sources.
 
 This is the field dataset Google Search uses for its Core Web Vitals assessment,
 so it answers "is this site passing Core Web Vitals" — which no lab tool,
@@ -108,7 +108,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1679+ data sources. The
+Both URLs reach the same gateway and the same 1683+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 

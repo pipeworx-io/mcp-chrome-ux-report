@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-chrome-ux-report",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Real-user Core Web Vitals for any website with enough traffic, from Google's Chrome UX Report — the field measurements Google Search itself uses.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-c533f89d149f36d8933eb8f7a8a4831a1f031de99a5f8ab59d9ad9b9bc1a0efa",
-    "sourceCommit": "839ab210d969ef7f822cd747ea516f6bb49e9231"
+    "sourceHash": "v1-09f847417fd368a8af4202b79ce2dcf50f562f0ecd6f35e4b206e024b32cc458",
+    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
   }
 }

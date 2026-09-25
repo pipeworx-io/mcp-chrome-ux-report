@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/chrome-ux-report",
   "title": "Chrome Ux Report",
   "description": "Real-user Core Web Vitals for any website with enough traffic, from Google's Chrome UX Report…",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/chrome-ux-report",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-chrome-ux-report",
